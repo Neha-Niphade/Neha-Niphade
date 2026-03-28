@@ -29,7 +29,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <a href="https://twitter.com/@nexaa_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nexaa_5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neha-niphade-7974602b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/neha-niphade-7974602b8" height="30" width="40" /></a>
 <a href="https://instagram.com/neha.niphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neha.niphade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/neha__niphade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neha__niphade" height="30" width="40" /></a>
+<
 <a href="https://www.topcoder.com/members/411057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411057" height="30" width="40" /></a>
 </p>
 
