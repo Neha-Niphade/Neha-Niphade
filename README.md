@@ -15,7 +15,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 - 🔭 I’m currently working on **SOCWatch-Remote Work Monitoring Sys, Dynamic Pricing Prediction using Machine Learning**  
-- 🌱 I’m currently learning **Django, System Design, Cloud**  
+- 🌱 I’m currently learning **System Design**  
 - 👯 I’m looking to collaborate on **ML, Cloud, Backend Projects**  
 - 💬 Ask me about **DSA, Oops, OS**  
 - 📫 How to reach me **niphadeneha6@gmail.com**  
@@ -36,7 +36,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,aws,bash,bootstrap,c,cpp,css,django,docker,figma,git" />
+<img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cpp,css,django,docker,figma,git" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=html,java,js,linux,mysql,php,python,github,vscode" />
 </p>
